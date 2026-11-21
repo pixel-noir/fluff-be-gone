@@ -2,8 +2,8 @@
   "name": "fluff-be-gone",
   "description": "Concise, filler-free agent replies that keep full sentences.",
   "owner": {
-    "name": "Pixel-Noir",
-    "url": "https://github.com/Pixel-Noir"
+    "name": "pixel-noir",
+    "url": "https://github.com/pixel-noir"
   },
   "plugins": [
     {

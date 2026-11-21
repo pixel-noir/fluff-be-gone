@@ -1,39 +1,30 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 380" width="1200" height="380" role="img" aria-label="fluff-be-gone: say less, mean more">
-  <defs>
-    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
-      <stop offset="0" stop-color="#1b1035"/>
-      <stop offset="1" stop-color="#0d2a3a"/>
-    </linearGradient>
-    <linearGradient id="title" x1="0" y1="0" x2="1" y2="0">
-      <stop offset="0" stop-color="#ff8a5c"/>
-      <stop offset="0.5" stop-color="#ff5ca8"/>
-      <stop offset="1" stop-color="#9b7bff"/>
-    </linearGradient>
-  </defs>
-  <rect width="1200" height="380" rx="24" fill="url(#bg)"/>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 400" width="1200" height="400" role="img" aria-label="fluff-be-gone: a reply with its filler sentences struck out in red pen">
+  <rect width="1200" height="400" fill="#f4efe4"/>
+  <!-- ruled paper -->
+  <g stroke="#d9d1bf" stroke-width="1">
+    <line x1="0" y1="232" x2="1200" y2="232"/>
+    <line x1="0" y1="282" x2="1200" y2="282"/>
+    <line x1="0" y1="332" x2="1200" y2="332"/>
+    <line x1="0" y1="382" x2="1200" y2="382"/>
+  </g>
+  <line x1="96" y1="0" x2="96" y2="400" stroke="#e3a59a" stroke-width="1.5"/>
 
-  <!-- fluff particles drifting away -->
-  <g fill="#ffffff">
-    <circle cx="1040" cy="70" r="10" opacity=".10"/>
-    <circle cx="1100" cy="120" r="6" opacity=".14"/>
-    <circle cx="1130" cy="60" r="4" opacity=".20"/>
-    <circle cx="990" cy="40" r="5" opacity=".12"/>
-    <circle cx="1150" cy="170" r="3" opacity=".25"/>
-    <circle cx="1070" cy="190" r="8" opacity=".08"/>
+  <text x="130" y="110" font-family="Georgia, 'Times New Roman', serif" font-size="68" font-weight="700" fill="#1a1a1a" letter-spacing="-1">fluff-be-gone</text>
+  <text x="132" y="152" font-family="Georgia, 'Times New Roman', serif" font-size="24" font-style="italic" fill="#5b554b">Cuts the filler, not the grammar.</text>
+
+  <g font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="24">
+    <text x="130" y="224" fill="#8c8576" textLength="520" lengthAdjust="spacingAndGlyphs">Great question! I'd be happy to help.</text>
+    <text x="130" y="274" fill="#1a1a1a" textLength="560" lengthAdjust="spacingAndGlyphs">Node doesn't read .env automatically.</text>
+    <text x="130" y="324" fill="#8c8576" textLength="660" lengthAdjust="spacingAndGlyphs">Let me know if you have other questions!</text>
+    <text x="130" y="374" fill="#8c8576" textLength="230" lengthAdjust="spacingAndGlyphs">Hope this helps!</text>
   </g>
 
-  <text x="70" y="128" font-family="ui-sans-serif, -apple-system, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="76" font-weight="800" fill="url(#title)" letter-spacing="-2">fluff-be-gone</text>
-  <text x="72" y="178" font-family="ui-sans-serif, -apple-system, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="28" fill="#c9c3e6">Say less. Mean more. Keep the grammar.</text>
-
-  <!-- before: struck-through filler -->
-  <g font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="22">
-    <rect x="70" y="222" width="1060" height="48" rx="10" fill="#ffffff" fill-opacity=".05"/>
-    <text x="92" y="254" fill="#8a84a8" textLength="760" lengthAdjust="spacingAndGlyphs">Great question! I'd be happy to help. Hope this helps!</text>
-    <line x1="90" y1="247" x2="854" y2="247" stroke="#ff5ca8" stroke-width="3" stroke-linecap="round"/>
-
-    <!-- after: the answer -->
-    <rect x="70" y="288" width="1060" height="48" rx="10" fill="#5cffb1" fill-opacity=".08" stroke="#5cffb1" stroke-opacity=".35"/>
-    <text x="92" y="320" fill="#5cffb1">→</text>
-    <text x="124" y="320" fill="#e8fff4" textLength="900" lengthAdjust="spacingAndGlyphs">Node doesn't read .env automatically. Run node --env-file=.env</text>
+  <!-- red pen strikes, slightly uneven like a real hand -->
+  <g fill="none" stroke="#c8321e" stroke-width="3.2" stroke-linecap="round">
+    <path d="M124 217 C 260 213, 420 219, 658 214"/>
+    <path d="M124 317 C 340 320, 560 312, 796 316"/>
+    <path d="M124 367 C 200 364, 290 370, 362 365"/>
   </g>
+  <!-- tick next to the kept line -->
+  <path d="M700 264 l 9 10 l 20 -24" fill="none" stroke="#2f6b3a" stroke-width="3.2" stroke-linecap="round" stroke-linejoin="round"/>
 </svg>

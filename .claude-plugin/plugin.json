@@ -3,11 +3,11 @@
   "version": "1.0.0",
   "description": "Strips filler from agent replies (preambles, recaps, flattery, stacked hedges, empty offers) while keeping normal, readable sentences.",
   "author": {
-    "name": "iMhdi",
-    "url": "https://github.com/iMhdi"
+    "name": "Pixel-Noir",
+    "url": "https://github.com/Pixel-Noir"
   },
-  "homepage": "https://github.com/iMhdi/fluff-be-gone",
-  "repository": "https://github.com/iMhdi/fluff-be-gone",
+  "homepage": "https://github.com/Pixel-Noir/fluff-be-gone",
+  "repository": "https://github.com/Pixel-Noir/fluff-be-gone",
   "license": "MIT",
   "keywords": ["concise", "no-fluff", "communication", "tokens", "style"]
 }

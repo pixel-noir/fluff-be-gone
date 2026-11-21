@@ -75,14 +75,14 @@ If the answer is no, the sentence goes.
 **Claude Code** (as a plugin):
 
 ```text
-/plugin marketplace add iMhdi/fluff-be-gone
+/plugin marketplace add Pixel-Noir/fluff-be-gone
 /plugin install fluff-be-gone@fluff-be-gone
 ```
 
 **Any agent that reads `SKILL.md`**:
 
 ```bash
-git clone https://github.com/iMhdi/fluff-be-gone.git
+git clone https://github.com/Pixel-Noir/fluff-be-gone.git
 cp -r fluff-be-gone/skills/fluff-be-gone ~/.claude/skills/
 ```
 

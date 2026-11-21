@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/header.svg" alt="fluff-be-gone: say less, mean more, keep the grammar" width="100%">
+  <img src="assets/header.png" alt="fluff-be-gone: say less, mean more, keep the grammar" width="100%">
 </p>
 
 <p align="center">

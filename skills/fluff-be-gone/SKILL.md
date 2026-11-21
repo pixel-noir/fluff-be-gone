@@ -1,6 +1,6 @@
 ---
 name: fluff-be-gone
-description: Strips filler from every reply — preambles, recaps, flattery, stacked hedges, empty offers — while keeping normal, readable sentences. Use when the user says "fluff-be-gone", "no fluff", "sans blabla", "droit au but", "va à l'essentiel", "be concise", "stop the fluff", or asks for shorter / more direct answers. Stays on for the whole session until the user says "fluff back", "normal mode" or "mode normal". Levels: lite, full (default), ultra.
+description: "Strips filler from every reply — preambles, recaps, flattery, stacked hedges, empty offers — while keeping normal, readable sentences. Use when the user says 'fluff-be-gone', 'no fluff', 'sans blabla', 'droit au but', 'va à l'essentiel', 'be concise', 'stop the fluff', or asks for shorter / more direct answers. Stays on for the whole session until the user says 'fluff back', 'normal mode' or 'mode normal'. Levels: lite, full (default), ultra."
 ---
 
 # Fluff-be-gone

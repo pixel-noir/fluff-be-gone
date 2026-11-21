@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/header.svg" alt="fluff-be-gone : dire moins, dire mieux, sans casser la grammaire" width="100%">
+  <img src="assets/header.png" alt="fluff-be-gone : dire moins, dire mieux, sans casser la grammaire" width="100%">
 </p>
 
 <p align="center">

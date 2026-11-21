@@ -7,6 +7,7 @@
   <img src="https://img.shields.io/badge/version-1.0.1-c8321e?style=flat-square" alt="version 1.0.1">
   <img src="https://img.shields.io/badge/Claude_Code-plugin-5b554b?style=flat-square" alt="Claude Code plugin">
   <img src="https://img.shields.io/badge/Agent_Skill-SKILL.md-2f6b3a?style=flat-square" alt="Agent Skill">
+  <a href="https://paypal.me/BEMahdi"><img src="https://img.shields.io/badge/buy_me_a_coffee-PayPal-5b554b?style=flat-square&logo=paypal&logoColor=white" alt="Buy me a coffee"></a>
 </p>
 
 <p align="center">
@@ -113,6 +114,10 @@ Switch levels with `fluff-be-gone lite`, `fluff-be-gone full` or `fluff-be-gone 
 ## Credits
 
 Inspired by [no-fluff](https://github.com/yeaight7/agent-powerups/tree/main/skills/no-fluff) from agent-powerups, which goes the telegraphic way.
+
+## Support
+
+If this project helped you, [buy me a coffee ☕️](https://paypal.me/BEMahdi).
 
 ## License
 

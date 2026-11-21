@@ -1,0 +1,13 @@
+{
+  "name": "fluff-be-gone",
+  "version": "1.0.0",
+  "description": "Strips filler from agent replies (preambles, recaps, flattery, stacked hedges, empty offers) while keeping normal, readable sentences.",
+  "author": {
+    "name": "iMhdi",
+    "url": "https://github.com/iMhdi"
+  },
+  "homepage": "https://github.com/iMhdi/fluff-be-gone",
+  "repository": "https://github.com/iMhdi/fluff-be-gone",
+  "license": "MIT",
+  "keywords": ["concise", "no-fluff", "communication", "tokens", "style"]
+}

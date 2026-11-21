@@ -1,0 +1,16 @@
+{
+  "name": "fluff-be-gone",
+  "description": "Concise, filler-free agent replies that keep full sentences.",
+  "owner": {
+    "name": "iMhdi",
+    "url": "https://github.com/iMhdi"
+  },
+  "plugins": [
+    {
+      "name": "fluff-be-gone",
+      "source": "./",
+      "description": "Strips filler from agent replies while keeping normal, readable sentences.",
+      "version": "1.0.0"
+    }
+  ]
+}

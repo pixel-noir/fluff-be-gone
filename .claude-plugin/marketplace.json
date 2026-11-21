@@ -10,7 +10,7 @@
       "name": "fluff-be-gone",
       "source": "./",
       "description": "Strips filler from agent replies while keeping normal, readable sentences.",
-      "version": "1.0.0"
+      "version": "1.0.1"
     }
   ]
 }

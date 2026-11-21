@@ -4,7 +4,7 @@
 
 <p align="center">
   <a href="LICENSE"><img src="https://img.shields.io/badge/licence-MIT-1a1a1a?style=flat-square" alt="Licence MIT"></a>
-  <img src="https://img.shields.io/badge/version-1.0.0-c8321e?style=flat-square" alt="version 1.0.0">
+  <img src="https://img.shields.io/badge/version-1.0.1-c8321e?style=flat-square" alt="version 1.0.1">
   <img src="https://img.shields.io/badge/Claude_Code-plugin-5b554b?style=flat-square" alt="Plugin Claude Code">
   <img src="https://img.shields.io/badge/Agent_Skill-SKILL.md-2f6b3a?style=flat-square" alt="Agent Skill">
 </p>
